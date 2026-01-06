@@ -1,0 +1,17 @@
+#container{
+border: 5px solid black;
+width: 800px;
+height: 500px;
+text-align: center;
+ background: yellow;
+ 
+}
+button{
+    color: blue;
+    background:aquamarine;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 5px;
+
+}
